@@ -1,15 +1,22 @@
-// tailwind.config.js
+  // tailwind.config.js
 module.exports = {
-    purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-    darkMode: false, // or 'media' or 'class'
+    content: [
+      "./src/**/*.{js,jsx,ts,tsx}",
+    ],
     theme: {
-      extend: {},
-    },
-    variants: {
-      extend: {},
+      extend: {
+        keyframes: {
+          twinkle: {
+            '0%, 100%': { opacity: 0.5 },
+            '50%': { opacity: 1 },
+          }
+        },
+        animation: {
+          twinkle: 'twinkle 5s infinite',
+        }
+      },
     },
     plugins: [
         require('@tailwindcss/typography'),
     ],
-  };
-  
+  }
