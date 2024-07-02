@@ -13,7 +13,7 @@ import Map from './pages/Map';
 
 function App() {
     return (
-      <Router>
+      <Router basename='/lunasolan'>
         <div className="app min-h-screen bg-gray-800 text-white">
           <NavBar />
           <div className="container mx-auto px-4 py-8">
