@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklunasolan=self.webpackChunklunasolan||[]).push([[932],{932:(a,e,s)=>{a.exports=s.p+"static/media/creature2.a1bf8fcd57e584674713.md"}}]);
