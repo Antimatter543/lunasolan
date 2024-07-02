@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lunasolan/static/css/main.bebee6e2.css",
-    "main.js": "/lunasolan/static/js/main.e1592594.js",
+    "main.js": "/lunasolan/static/js/main.ca31727f.js",
     "static/js/929.a0925980.chunk.js": "/lunasolan/static/js/929.a0925980.chunk.js",
     "static/js/932.dd0e13ad.chunk.js": "/lunasolan/static/js/932.dd0e13ad.chunk.js",
     "static/js/453.2b2b670c.chunk.js": "/lunasolan/static/js/453.2b2b670c.chunk.js",
@@ -12,11 +12,11 @@
     "static/media/creature1.md": "/lunasolan/static/media/creature1.a1bf8fcd57e584674713.md",
     "static/media/creature2.md": "/lunasolan/static/media/creature2.a1bf8fcd57e584674713.md",
     "main.bebee6e2.css.map": "/lunasolan/static/css/main.bebee6e2.css.map",
-    "main.e1592594.js.map": "/lunasolan/static/js/main.e1592594.js.map",
+    "main.ca31727f.js.map": "/lunasolan/static/js/main.ca31727f.js.map",
     "453.2b2b670c.chunk.js.map": "/lunasolan/static/js/453.2b2b670c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bebee6e2.css",
-    "static/js/main.e1592594.js"
+    "static/js/main.ca31727f.js"
   ]
 }
